@@ -7,7 +7,7 @@
         <p class="text-slate-400">Услуги по ремонту и отделке квартир</p>
       </div>
     </div>
-
+    // src\components\Header.vue
     <ul class="flex items-center gap-3">
       <li class="flex items-center cursor-pointer gap-3 text-gray-500 hover:text-black">
         <b>Главная</b>
