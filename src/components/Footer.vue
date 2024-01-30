@@ -22,7 +22,7 @@
             <li class="py-2 text-sm cursor-pointer gap-3 text-white-500 hover:text-black">
               Безопасность
             </li>
-            <li class="py-2 text-smcursor-pointer gap-3 text-white-500 hover:text-black">
+            <li class="py-2 text-sm cursor-pointer gap-3 text-white-500 hover:text-black">
               Условия использования
             </li>
           </ul>
